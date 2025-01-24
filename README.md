@@ -5,7 +5,8 @@
 </p>
 
 > Do you wanna know what this game is actually? Are you serious??!! You don't know it???!!!!! Have a try!!! For Sure You'll get Nostalgia....
-> <br>
+<br>
+---
 > I created this using OOPS concept in Python.
 
 ---
